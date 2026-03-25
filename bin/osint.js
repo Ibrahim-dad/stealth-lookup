@@ -46,7 +46,7 @@ async function animateBanner() {
     "  +---------------------------------------------------------------+",
     ...art.map(l => l),
     "  +---------------------------------------------------------------+",
-    "  |   Email Data Breach Checker              Developer: @zoxionx  |",
+    "  |   Email Data Breach Checker              Developer: @afc_pola  |",
     "  +---------------------------------------------------------------+",
   ];
 
