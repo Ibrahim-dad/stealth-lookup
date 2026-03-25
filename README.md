@@ -18,7 +18,7 @@ Email Data Breach Checker — Terminal Tool
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/stealth-lookup.git
+git clone https://github.com/ibrahim-dad/stealth-lookup.git
 cd stealth-lookup
 npm install
 ```
